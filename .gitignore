@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data files (optional - you can keep CSV)
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
